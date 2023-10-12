@@ -118,4 +118,4 @@ async def on_command_error(ctx, error):
 	else:
 		await ctx.send(f"An error occurred: {str(error)}")
 
-bot.run("MTE2MDEzNzg4MTQyNDI0NDc2Nw.GpGMvy.7phXt4j8ngkzb14ZEGJPMKtuYAJUx2AhfPHFAo")
+bot.run("MTE2MDEzNzg4MTQyNDI0NDc2Nw.GiZ8x0.hcvT4PawJqYnmJpB37wbIPrwL0FzUJ6QXJh3Wg")
