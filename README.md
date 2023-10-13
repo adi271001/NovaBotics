@@ -5,9 +5,10 @@ This is a discord bot created to validate posts made by participants so that the
 
 ## Features
 
-- []
-- []
-- []
+- [ ]
+- [ ]
+- [x] The bot can check if a post was uploaded within the given time frame for the daily post
+- [x] If someone misses to post one day the participant will be marked as ineligible for rewards
 
 ## Tech stack [V]
 
@@ -16,9 +17,9 @@ This is a discord bot created to validate posts made by participants so that the
 
 ## Why choose our project?  [V]
 
-When there are hundreds of participants in a challenge, the manual verification of the daily posts of each participants can be a tremendous workload. <br>
-So as a solution, our team has created an automated bot that can be invited to the server. <br>
-It can help moderators reduce workload to a huge extent thus saving both **time** and **effort**
+When there are hundreds of participants in a challenge, the manual verification of the daily posts of each participants can be a tremendous work.<br>
+So as a solution, our team has created an automated bot that can be invited to the server.<br>
+It can help moderators reduce workload to a huge extent thus saving both **time** and **effort**. <br>
 Not only that, it will also help participants give a reminder thus saving them from being kicked out of a challenge!
 
 ## Team name [V]
