@@ -1,16 +1,22 @@
 # Verification Bot [V]   (NAME OF PROJECT)
 
 ## About the project
+This is a discord bot created to validate posts made by participants 
 
+## Features
 
+- []
+- []
+- []
 
-## What can it do?
+## Tech stack
 
-
+- Python
+- MongoDB
 
 ## Why choose our project?
 
-When there can hundreds of participants, the workload for the 
+When there can hundreds of participants in a challenge, this automated bot can be invited the workload for the 
 
 ## Team name [V]
 
