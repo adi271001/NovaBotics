@@ -5,8 +5,11 @@ This is a discord bot created to validate posts made by participants so that the
 
 ## Features
 
-- [ ]
-- [ ]
+- [x] Commands to use bot are included
+- [ ] Export list of eligible participants to pdf or doc format for sharing in Discord
+- [ ] Sets ineligible tag for participants who are ineligible for rewards
+- [ ] Hashtag ?! 
+- [ ] Send reminders to participants about start time and end time for each day of challenge
 - [x] The bot can check if a post was uploaded within the given time frame for the daily post
 - [x] If someone misses to post one day the participant will be marked as ineligible for rewards
 
