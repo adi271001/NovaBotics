@@ -8,7 +8,7 @@ This is a discord bot created to validate posts made by participants so that the
 - [x] Commands to use bot are included
 - [ ] Export list of eligible participants to pdf or doc format for sharing in Discord
 - [ ] Sets ineligible tag for participants who are ineligible for rewards
-- [ ] Hashtag **?! Confused**
+- [ ] Hashtag **?! Confused** *not possible i guess*
 - [ ]  Participants will either tag the bot or use bot command when sending their message on Discord linking their tweet or LinkedIn post. This will invoke the bot and store user's entry for that day. **?! Confused**
 - [ ] Send reminders to participants about start time and end time for each day of challenge
 - [x] The bot can check if a post was uploaded within the given time frame for the daily post
