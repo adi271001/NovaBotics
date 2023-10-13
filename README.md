@@ -1,5 +1,9 @@
 # NAME OF PROJECT - Verification Bot
 
+<div align="center">
+<img src="https://github.com/adi271001/Scaler-Hackathon-Adityad-SaumiliDutta-DatatPirates/assets/116259393/d31ab67d-f44d-4654-ab3f-2f8039d36a62">
+</div>
+
 ## About the project
 This is a discord bot created to validate posts made by participants so that the rewards can be distributed sooner once the challenge ends!
 
