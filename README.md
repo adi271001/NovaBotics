@@ -21,10 +21,10 @@ This is a discord bot created to validate posts made by participants so that the
 
 ## Why choose our project?
 
-When there are hundreds of participants in a challenge, the manual verification of the daily posts of each participants can be a tremendous work.<br>
-So as a solution, our team has created an automated bot that can be invited to the server.<br>
-It can help moderators reduce workload to a huge extent thus saving both **time** and **effort**. <br>
-Not only that, it will also help participants give a reminder thus saving them from being kicked out of a challenge!
+- When there are hundreds of participants in a challenge, the manual verification of the daily posts of each participants can be a tremendous work.
+- So as a solution, our team has created an automated bot that can be invited to the server.
+- It can help moderators reduce workload to a huge extent thus saving both **time** and **effort**.
+- Not only that, it will also help participants give a reminder thus saving them from being kicked out of a challenge!
 
 ## Team name
 
