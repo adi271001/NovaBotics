@@ -71,7 +71,7 @@ async def listfaq(ctx):
     await ctx.send(f"Available FAQ questions and answers:\n{faq_list}")
 @bot.command()
 async def greeting(ctx):
-    await ctx.send('Hello! my name is event-verifier have a good day!'  )
+    await ctx.send('Hello! my name is NovaBotics have a good day!'  )
 
 @bot.command()
 async def about(ctx):
