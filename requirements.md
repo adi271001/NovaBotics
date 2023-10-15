@@ -1,5 +1,5 @@
 ---
-LIBRARIES : VERSION
+REQ. : VERSION
 asyncio : 3.4.3
 beautifulsoup4 : 4.9.3
 discord.py : 1.7.3
