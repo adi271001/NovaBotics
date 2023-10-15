@@ -38,3 +38,7 @@ Data Pirates
 
 - [Aditya D.](https://github.com/adi271001)
 - [Saumili Dutta](https://github.com/aumii01codes)
+
+## Demo
+
+https://github.com/adi271001/NovaBotics/assets/116259393/75884b04-ef5f-480c-9c6d-9c12d157d665
