@@ -1,11 +1,7 @@
 # NovaBotics
 
 <div align="center">
-<img src="https://github.com/adi271001/Scaler-Hackathon-Adityad-SaumiliDutta-DatatPirates/assets/116259393/d31ab67d-f44d-4654-ab3f-2f8039d36a62">
-</div>
-
-<div align="center">
-<img src="">
+<img src="https://github.com/adi271001/NovaBotics/assets/116259393/a091b22a-c405-4f9a-8437-9f49b0ddf620">
 </div>
 
 ## About the project
