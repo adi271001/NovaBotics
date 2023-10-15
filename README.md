@@ -1,4 +1,4 @@
-# NAME OF PROJECT - Verification Bot
+# NovaBotics
 
 <div align="center">
 <img src="https://github.com/adi271001/Scaler-Hackathon-Adityad-SaumiliDutta-DatatPirates/assets/116259393/d31ab67d-f44d-4654-ab3f-2f8039d36a62">
@@ -19,11 +19,13 @@ This is a discord bot created to validate posts made by participants so that the
 - [ ] 
 
 ---
+
   about             
   check_eligibility  eligible or not
   daily_check                       
-  post              
-  ---
+  post  
+  
+---
   
 - [ ] Sets ineligible tag for participants who are ineligible for rewards
 - [x] The bot can check if a post was uploaded within the given time frame for the daily post
