@@ -14,25 +14,12 @@ This is a discord bot created to validate posts made by participants so that the
 - [x] Bot has an about which introduces it to the participants
 - [x] Bot greets the participants
 - [x] Participants can set reminders for daily post or revoke the reminder as per their wish
-- [x] The list of eligibe participants can be exported in .doc format for sharing or for further editing as per need
-- [ ] The participant can check
-
-- [ ] 
+- [x] The list of eligible participants can be exported in .doc format for sharing or for further editing as per need **only by the moderator(s)** 
+- [x] The participant can register for the event
+- [x] The participant can check if they're eligible for the challenge
 - [x] The bot can check if a post was uploaded within the given time frame for the daily post
 - [x] If someone misses to post one day the participant will be marked as ineligible for rewards
-
----
-          
-  check_eligibility  eligible or not
-  daily_check                       
-  post  
-  
----
-  
-- [ ] Sets ineligible tag for participants who are ineligible for rewards
-- [x] The bot can check if a post was uploaded within the given time frame for the daily post
-- [x] If someone misses to post one day the participant will be marked as ineligible for rewards
-
+- [x] **Only the moderator(s)** can distribute tokens amongst the eligible participants
 
 ## Tech stack
 
