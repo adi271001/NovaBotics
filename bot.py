@@ -269,5 +269,5 @@ async def download_eligible(ctx):
             await ctx.send("Here is the list of eligible participants:", file=discord.File(file, "eligible_participants.docx"))
         os.remove("eligible_participants.docx")
 
-bot.run("MTE2MDEzNzg4MTQyNDI0NDc2Nw.GiZ8x0.hcvT4PawJqYnmJpB37wbIPrwL0FzUJ6QXJh3Wg")
+bot.run("YOUR-BOT-TOKEN")
 
