@@ -40,7 +40,7 @@ faq_dict = {
     "Q1": "What is this bot for?",
     "A1": "This bot helps you register for events, check your eligibility, participate in challenges, and more!",
     "Q2": "How do I register for an event?",
-    "A2": "You can register for an event by using the `!register` command followed by the post link.",
+    "A2": "You can register for an event by using the `!post` command followed by the post link.",
     "Q3": "How can I check my eligibility?",
     "A3": "You can check your eligibility by using the `!check_eligibility` command.",
     "Q4": "Can I participate in multiple events simultaneously?",
