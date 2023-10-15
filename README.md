@@ -1,7 +1,7 @@
 # NovaBotics
 
 <div align="center">
-<img src="https://github.com/adi271001/NovaBotics/assets/116259393/a091b22a-c405-4f9a-8437-9f49b0ddf620">
+<img src="https://github.com/adi271001/NovaBotics/assets/116259393/832b698d-f706-4dc5-a928-e788dc15b520">
 </div>
 
 ## About the project
